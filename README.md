@@ -5,6 +5,5 @@ This repository contains examples of SQL code that I have developed for various 
 
 | Project Name | Description | Status |
 | ------------ | ----------- | ------ |
-| Library Management System | A web application for managing customer orders | Active |
-| Project B | A machine learning model for predicting customer churn | Completed |
-| Project C | An Android app for tracking daily water intake | On hold |
+| Library Management System | A web application for managing customer orders | In Progress (updates will be uploaded soon)|
+
